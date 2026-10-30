@@ -1,0 +1,8 @@
+{
+  "name": "Z-SERIES - Stream, Track & Discover TV Series",
+  "description": "Next-generation TV series streaming discovery, episode binge tracker, ratings, and community library built with React and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

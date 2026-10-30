@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="zGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" />
+      <stop offset="100%" stop-color="#be123c" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="#08090c"/>
+  <rect x="2" y="2" width="96" height="96" rx="22" fill="none" stroke="#27272a" stroke-width="2"/>
+  <text x="50" y="68" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="56" fill="url(#zGrad)" text-anchor="middle">Z</text>
+</svg>
